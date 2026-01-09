@@ -1,6 +1,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20welcome%20to%20my%20profile-nl-I'm%20Andreas)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=~%24+andreas14101)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=~%24+andreas14101&prefix=~%24+&size=28)](https://git.io/typing-svg)
 
 ## 🤔Who am I?
 My name is Andreas I'm currently studdying a professional bachelor in sowftwaredevelopment, I enjoy solving complex tasks in coding and expanding my knowlage.
