@@ -4,7 +4,9 @@
 
 ## 🤔Who am I?
 My name is Andreas I'm currently studdying a professional bachelor in sowftwaredevelopment, I enjoy solving complex tasks in coding and expanding my knowlage.
-My main focus is backend development, but I do have experience with fullstack development, and a tiny bit of cybersecurity.
+
+My main focus is backend development, but I do have experience with fullstack development, and a tiny bit of cybersecurity experience.
+
 I'm always interested in trying to evolve my abilities.
 
 ### ✨I have experience with
