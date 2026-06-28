@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=~%24+andreas14101&prefix=~%24+&size=28)](https://git.io/typing-svg)
 
 ## 🤔Who am I?
-My name is Andreas. I'm currently studying a professional bachelor in software development. I enjoy solving complex tasks in coding and expanding my knowledge.
+My name is Andreas. I'm a graduate with a professional bachelor in software development. I enjoy solving complex tasks in coding and expanding my knowledge.
 
 My main focus is backend development, but I do have experience with fullstack development and a tiny bit of cybersecurity experience.
 
