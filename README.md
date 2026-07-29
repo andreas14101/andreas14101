@@ -1,53 +1,83 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20welcome%20to%20my%20profile-nl-I'm%20Andreas)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=~%24+andreas14101&prefix=~%24+&size=28)](https://git.io/typing-svg)
-
-## 🤔Who am I?
-My name is Andreas. I'm a graduate with a professional bachelor in software development. I enjoy solving complex tasks in coding and expanding my knowledge.
-
-My main focus is backend development, but I do have experience with fullstack development and a tiny bit of cybersecurity experience.
-
-I'm always interested in trying to evolve my abilities.
-
-### ✨I have experience with
-
-   * ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) / ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-   * ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white) / ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
-   * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-   * ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-   * ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) 
-   * ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-   * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) / ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white) 
-   * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) / ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-   * ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) / ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white)
-
-### :chart_with_upwards_trend: Stats 
-
 <div align="center">
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-|:----------------:|:-----------------:|
-| <img src="https://github-readme-stats-fast.vercel.app/api?username=andreas14101&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreas14101&layout=compact&theme=tokyonight&hide_border=true" height="150"/> |
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,100:1E3A8A&text=ANDREAS&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BACKEND%20DEVELOPER&descAlignY=58&descSize=22&descColor=ffffff" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=400&size=26&pause=1200&color=1E3A8A&center=true&vCenter=true&width=600&lines=Writing+Code;Building+Reliable+Systems" />
+</a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=%22Code+never+lies%2C+it+just+compiles+wrong.%22" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=andreas14101&color=1E3A8A&style=flat-square&label=VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/andreas14101?style=flat-square&color=1E3A8A&labelColor=0D0D0D&label=FOLLOWERS)](https://github.com/andreas14101)
 
 </div>
 
-<br>
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E3A8A,100:0D0D0D&animation=blink" width="100%"/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-plain.svg" width="40" height="40" alt="Nuxt" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes"/></td>
-    </tr>
-  </table>
+
+## 「 📖 CHAPTER 01 — PROFILE 」
+
 </div>
+
+> My name is Andreas. I'm a graduate with a professional bachelor's degree in software development, and I enjoy solving complex problems in code and expanding my knowledge along the way.
+>
+> My main focus is backend development, but I also have experience with full-stack work and a bit of exposure to cybersecurity.
+>
+> I'm always looking for ways to evolve my abilities and take on new challenges.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D0D0D,100:1E3A8A&animation=blink" width="100%"/>
+
+<div align="center">
+
+## 「 ⚡ CHAPTER 02 — ABILITIES 」
+
+**◆ LANGUAGES & FRAMEWORKS**
+
+![Go](https://img.shields.io/badge/Go-0D0D0D?style=for-the-badge&logo=go&logoColor=00ADD8)
+![.NET](https://img.shields.io/badge/.NET-0D0D0D?style=for-the-badge&logo=.net&logoColor=1E3A8A)
+![C%23](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=c-sharp&logoColor=1E3A8A)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=ffde57)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=1E3A8A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+**◆ FRONTEND**
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0D0D0D?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
+![Angular](https://img.shields.io/badge/Angular-0D0D0D?style=for-the-badge&logo=angular&logoColor=1E3A8A)
+![Ionic](https://img.shields.io/badge/Ionic-0D0D0D?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/SCSS-0D0D0D?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+**◆ DATA & INFRASTRUCTURE**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MSSQL](https://img.shields.io/badge/SQL_Server-0D0D0D?style=for-the-badge&logo=microsoftsqlserver&logoColor=1E3A8A)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E3A8A,100:0D0D0D&animation=blink" width="100%"/>
+
+<div align="center">
+
+## 「 📊 CHAPTER 03 — GITHUB STATISTICS 」
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=andreas14101&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=4169E1&icon_color=4169E1&text_color=E5E5E5&border_radius=8" width="100%"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreas14101&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=4169E1&text_color=E5E5E5&border_radius=8" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E3A8A,100:0D0D0D&section=footer" width="100%"/>
